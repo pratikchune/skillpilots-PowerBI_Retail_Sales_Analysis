@@ -1,0 +1,501 @@
+Order ID,Order Date,Region,Category,Product,Sales,Quantity,Profit,Customer Segment,Payment Method
+ORD0336,2025-01-01,West,Home Appliances,Mixer,22106,2,3719.49,Consumer,Debit Card
+ORD0257,2025-01-02,South,Home Appliances,Refrigerator,26648,1,3488.0,Small Business,Credit Card
+ORD0057,2025-01-03,North,Home Appliances,Washing Machine,41484,4,8761.9,Corporate,Debit Card
+ORD0156,2025-01-04,West,Furniture,Desk,100845,5,14685.5,Small Business,Cash
+ORD0452,2025-01-07,North,Home Appliances,Microwave,178928,8,22706.15,Consumer,Net Banking
+ORD0358,2025-01-07,South,Electronics,Mobile Phone,3686,1,927.91,Consumer,Cash
+ORD0273,2025-01-08,South,Furniture,Sofa,92084,4,12950.47,Consumer,Credit Card
+ORD0441,2025-01-08,East,Electronics,Keyboard,194736,4,30110.14,Small Business,Debit Card
+ORD0186,2025-01-09,Central,Home Appliances,Mixer,66912,2,13338.76,Small Business,Debit Card
+ORD0017,2025-01-10,North,Clothing,Jeans,5206,1,753.99,Corporate,UPI
+ORD0465,2025-01-10,North,Home Appliances,Refrigerator,66590,2,15252.29,Corporate,Cash
+ORD0447,2025-01-11,North,Electronics,Keyboard,44182,1,4489.89,Small Business,Credit Card
+ORD0127,2025-01-13,Central,Home Appliances,Refrigerator,89852,2,11390.03,Small Business,UPI
+ORD0181,2025-01-14,West,Electronics,Mobile Phone,470200,8,70490.98,Consumer,Cash
+ORD0382,2025-01-14,East,Clothing,Backpack,20886,6,2800.54,Small Business,Debit Card
+ORD0459,2025-01-15,South,Home Appliances,Microwave,362341,7,54974.3,Corporate,Cash
+ORD0182,2025-01-15,East,Clothing,Jeans,6776,7,1050.16,Consumer,UPI
+ORD0139,2025-01-16,North,Electronics,Keyboard,154090,5,32153.67,Corporate,Cash
+ORD0373,2025-01-16,West,Electronics,Headphones,272725,5,75854.46,Corporate,Net Banking
+ORD0480,2025-01-17,East,Furniture,Office Chair,72845,5,16806.71,Corporate,Credit Card
+ORD0359,2025-01-19,Central,Clothing,Shoes,5298,3,1410.5,Small Business,Cash
+ORD0193,2025-01-19,South,Clothing,Jacket,33236,7,5805.66,Corporate,UPI
+ORD0243,2025-01-20,South,Electronics,Keyboard,143484,4,32676.66,Corporate,Debit Card
+ORD0165,2025-01-20,North,Electronics,Headphones,42284,2,7287.58,Corporate,UPI
+ORD0042,2025-01-21,East,Electronics,Headphones,358290,6,95526.42,Consumer,Debit Card
+ORD0166,2025-01-22,West,Electronics,Laptop,217868,7,42716.48,Small Business,Debit Card
+ORD0313,2025-01-23,North,Electronics,Monitor,173600,8,16220.29,Consumer,UPI
+ORD0308,2025-01-23,Central,Electronics,Mobile Phone,70206,6,14701.13,Small Business,Cash
+ORD0005,2025-01-23,West,Electronics,Headphones,242190,6,32188.06,Small Business,Credit Card
+ORD0276,2025-01-24,Central,Home Appliances,Refrigerator,99976,4,14255.02,Consumer,Debit Card
+ORD0443,2025-01-24,East,Home Appliances,Fan,58225,5,5418.27,Corporate,Cash
+ORD0455,2025-01-24,North,Clothing,Shoes,2156,2,539.54,Consumer,Debit Card
+ORD0472,2025-01-25,Central,Home Appliances,Fan,100173,3,8100.74,Corporate,Net Banking
+ORD0185,2025-01-25,South,Home Appliances,Mixer,81365,5,11409.83,Corporate,Net Banking
+ORD0222,2025-01-26,East,Home Appliances,Microwave,155720,4,23448.16,Corporate,Net Banking
+ORD0219,2025-01-26,East,Electronics,Headphones,136376,8,14752.55,Corporate,Net Banking
+ORD0416,2025-01-26,West,Home Appliances,Mixer,156968,7,34235.15,Corporate,UPI
+ORD0384,2025-01-29,South,Furniture,Office Chair,68016,4,9066.9,Small Business,Cash
+ORD0210,2025-01-29,North,Furniture,Desk,239085,7,62674.33,Small Business,Debit Card
+ORD0155,2025-01-29,North,Clothing,T-Shirt,14148,4,3917.43,Consumer,UPI
+ORD0030,2025-01-30,Central,Home Appliances,Microwave,80580,4,9954.87,Small Business,Net Banking
+ORD0258,2025-01-31,North,Electronics,Monitor,280200,6,25989.11,Corporate,Credit Card
+ORD0267,2025-02-01,Central,Furniture,Table,113212,4,15861.02,Small Business,Debit Card
+ORD0167,2025-02-01,West,Clothing,Backpack,35256,8,3884.23,Consumer,UPI
+ORD0150,2025-02-05,South,Electronics,Mobile Phone,113742,3,24052.9,Small Business,Credit Card
+ORD0204,2025-02-07,West,Clothing,Shoes,5216,4,558.87,Consumer,Cash
+ORD0293,2025-02-07,North,Home Appliances,Mixer,265005,5,34262.48,Corporate,Debit Card
+ORD0140,2025-02-07,North,Home Appliances,Mixer,379096,8,99300.47,Corporate,Net Banking
+ORD0495,2025-02-07,North,Furniture,Office Chair,183512,8,16071.48,Consumer,UPI
+ORD0348,2025-02-07,North,Home Appliances,Refrigerator,152058,3,26488.95,Small Business,Credit Card
+ORD0299,2025-02-09,East,Furniture,Sofa,143985,5,20150.77,Corporate,Debit Card
+ORD0060,2025-02-09,East,Furniture,Bookshelf,135032,8,18218.45,Consumer,UPI
+ORD0271,2025-02-10,West,Home Appliances,Microwave,70125,5,10241.94,Corporate,Credit Card
+ORD0404,2025-02-11,West,Electronics,Laptop,47980,4,9962.48,Consumer,UPI
+ORD0297,2025-02-13,Central,Home Appliances,Mixer,139095,5,21915.8,Consumer,Net Banking
+ORD0394,2025-02-15,East,Furniture,Bookshelf,73212,6,15172.26,Corporate,Credit Card
+ORD0098,2025-02-16,West,Clothing,Jeans,38500,7,9349.69,Corporate,Cash
+ORD0096,2025-02-16,South,Electronics,Monitor,242184,6,31501.74,Small Business,Net Banking
+ORD0294,2025-02-16,North,Home Appliances,Microwave,150171,7,22847.02,Corporate,Cash
+ORD0296,2025-02-17,Central,Home Appliances,Mixer,6573,1,991.1,Small Business,UPI
+ORD0333,2025-02-17,West,Clothing,Shoes,23848,8,4683.54,Small Business,UPI
+ORD0332,2025-02-17,West,Clothing,Shoes,28014,7,2664.22,Small Business,UPI
+ORD0456,2025-02-17,East,Clothing,Jacket,43144,8,5766.71,Corporate,Debit Card
+ORD0399,2025-02-17,East,Home Appliances,Microwave,73102,2,19618.15,Small Business,Net Banking
+ORD0248,2025-02-18,South,Home Appliances,Fan,38304,6,6135.02,Consumer,Cash
+ORD0007,2025-02-21,West,Electronics,Mobile Phone,30145,5,7568.31,Corporate,Cash
+ORD0453,2025-02-21,East,Home Appliances,Microwave,103574,2,18885.79,Small Business,Debit Card
+ORD0343,2025-02-21,South,Furniture,Sofa,123496,8,12020.81,Consumer,Net Banking
+ORD0241,2025-02-21,South,Electronics,Laptop,157122,7,35112.31,Consumer,Net Banking
+ORD0035,2025-02-21,North,Electronics,Laptop,332064,8,92875.28,Small Business,Debit Card
+ORD0174,2025-02-21,Central,Furniture,Desk,18771,3,2612.14,Small Business,Net Banking
+ORD0001,2025-02-22,Central,Electronics,Laptop,84245,5,10500.48,Consumer,Net Banking
+ORD0458,2025-02-23,West,Electronics,Mobile Phone,62565,1,15570.55,Small Business,Cash
+ORD0398,2025-02-23,North,Electronics,Laptop,10575,5,1520.09,Corporate,Debit Card
+ORD0450,2025-02-24,West,Home Appliances,Mixer,38454,2,3953.17,Consumer,Net Banking
+ORD0218,2025-02-24,East,Clothing,Shoes,10005,3,1830.88,Consumer,Cash
+ORD0230,2025-02-26,West,Clothing,Shoes,3317,1,485.1,Small Business,UPI
+ORD0491,2025-02-28,West,Furniture,Office Chair,157158,6,41361.86,Corporate,Net Banking
+ORD0318,2025-02-28,East,Clothing,Backpack,37149,7,5888.44,Corporate,Cash
+ORD0100,2025-03-01,West,Electronics,Monitor,42824,2,5587.67,Small Business,Credit Card
+ORD0128,2025-03-01,South,Furniture,Office Chair,168032,8,35261.16,Consumer,Credit Card
+ORD0355,2025-03-02,North,Furniture,Bookshelf,56439,3,12788.35,Corporate,Cash
+ORD0327,2025-03-02,South,Home Appliances,Refrigerator,325350,6,31687.98,Consumer,Net Banking
+ORD0371,2025-03-03,North,Furniture,Sofa,157825,5,20990.98,Consumer,UPI
+ORD0058,2025-03-04,West,Furniture,Table,35928,8,6879.54,Consumer,Cash
+ORD0126,2025-03-05,West,Clothing,T-Shirt,2898,7,385.12,Corporate,UPI
+ORD0433,2025-03-07,East,Furniture,Table,61359,3,6106.49,Small Business,Net Banking
+ORD0473,2025-03-07,North,Home Appliances,Fan,138114,3,27030.41,Corporate,Net Banking
+ORD0172,2025-03-07,Central,Electronics,Headphones,300797,7,71689.67,Consumer,Cash
+ORD0034,2025-03-09,East,Clothing,Jeans,13530,6,1801.15,Corporate,UPI
+ORD0445,2025-03-09,South,Home Appliances,Mixer,61604,4,13887.62,Small Business,Credit Card
+ORD0374,2025-03-13,North,Furniture,Office Chair,63024,8,15174.88,Consumer,Credit Card
+ORD0206,2025-03-13,South,Furniture,Bookshelf,36612,4,10142.49,Corporate,Credit Card
+ORD0125,2025-03-14,South,Clothing,Jacket,8272,2,2254.77,Small Business,Cash
+ORD0217,2025-03-15,East,Home Appliances,Washing Machine,112560,8,16663.22,Small Business,UPI
+ORD0162,2025-03-16,East,Furniture,Bookshelf,65274,6,8306.36,Consumer,Debit Card
+ORD0135,2025-03-16,South,Furniture,Bookshelf,4155,3,562.82,Small Business,UPI
+ORD0413,2025-03-17,Central,Home Appliances,Mixer,56518,7,9206.13,Small Business,Net Banking
+ORD0144,2025-03-20,West,Clothing,Shoes,34488,6,4517.17,Consumer,Credit Card
+ORD0213,2025-03-20,South,Electronics,Keyboard,118752,3,31863.7,Small Business,Net Banking
+ORD0130,2025-03-21,West,Clothing,Backpack,35777,7,8173.39,Small Business,Credit Card
+ORD0111,2025-03-21,North,Home Appliances,Mixer,82704,3,21022.25,Corporate,UPI
+ORD0147,2025-03-21,West,Clothing,Jacket,10068,2,1827.17,Consumer,Credit Card
+ORD0351,2025-03-21,Central,Electronics,Headphones,68616,2,18127.32,Corporate,Cash
+ORD0043,2025-03-21,South,Electronics,Headphones,452347,7,92338.63,Consumer,Debit Card
+ORD0486,2025-03-21,North,Clothing,T-Shirt,24720,6,5486.3,Consumer,UPI
+ORD0462,2025-03-22,Central,Furniture,Table,1963,1,409.64,Corporate,Cash
+ORD0390,2025-03-22,West,Electronics,Headphones,109710,5,11770.82,Small Business,Cash
+ORD0357,2025-03-22,East,Clothing,T-Shirt,39544,8,4483.35,Consumer,Net Banking
+ORD0059,2025-03-23,West,Clothing,Shoes,33516,7,5670.33,Corporate,UPI
+ORD0013,2025-03-23,West,Home Appliances,Mixer,7885,1,871.83,Small Business,Credit Card
+ORD0314,2025-03-23,East,Electronics,Mobile Phone,138464,4,15908.22,Small Business,Cash
+ORD0479,2025-03-24,East,Furniture,Office Chair,14300,1,1907.56,Small Business,UPI
+ORD0246,2025-03-25,West,Home Appliances,Refrigerator,214824,4,22025.77,Small Business,UPI
+ORD0175,2025-03-25,South,Electronics,Headphones,119823,3,18613.78,Small Business,Net Banking
+ORD0469,2025-03-26,West,Clothing,Jacket,7020,6,625.87,Consumer,Cash
+ORD0342,2025-03-26,West,Furniture,Desk,3510,2,709.24,Corporate,Debit Card
+ORD0410,2025-03-27,South,Furniture,Office Chair,100232,8,27043.83,Consumer,Debit Card
+ORD0396,2025-03-27,West,Electronics,Monitor,390480,8,64011.64,Corporate,Cash
+ORD0161,2025-03-28,North,Home Appliances,Refrigerator,91320,6,13388.77,Small Business,Credit Card
+ORD0054,2025-03-28,North,Home Appliances,Microwave,421744,8,109753.04,Corporate,Net Banking
+ORD0439,2025-03-28,Central,Electronics,Monitor,72610,5,16862.85,Consumer,Cash
+ORD0391,2025-03-31,West,Clothing,Jeans,12768,6,2720.94,Corporate,UPI
+ORD0454,2025-03-31,North,Home Appliances,Refrigerator,155630,5,14009.2,Corporate,UPI
+ORD0191,2025-03-31,West,Furniture,Office Chair,140322,6,34056.4,Small Business,Cash
+ORD0388,2025-04-01,East,Electronics,Headphones,214604,4,22769.04,Consumer,Credit Card
+ORD0196,2025-04-03,Central,Home Appliances,Mixer,281274,7,78480.97,Corporate,UPI
+ORD0066,2025-04-04,North,Electronics,Laptop,67851,7,17191.43,Corporate,Cash
+ORD0077,2025-04-04,West,Home Appliances,Refrigerator,33094,1,8279.81,Consumer,UPI
+ORD0247,2025-04-09,South,Furniture,Office Chair,123204,6,23846.9,Small Business,Cash
+ORD0082,2025-04-09,East,Clothing,Jacket,10940,5,1139.2,Consumer,Net Banking
+ORD0055,2025-04-12,South,Clothing,T-Shirt,23244,4,3302.6,Consumer,Credit Card
+ORD0045,2025-04-13,West,Electronics,Monitor,57068,1,9937.71,Corporate,UPI
+ORD0420,2025-04-13,North,Home Appliances,Microwave,12086,1,1432.83,Consumer,Credit Card
+ORD0192,2025-04-14,North,Furniture,Desk,62388,2,5452.51,Consumer,Credit Card
+ORD0369,2025-04-14,South,Clothing,Shoes,11065,5,1050.48,Small Business,Credit Card
+ORD0328,2025-04-16,South,Clothing,Backpack,11613,7,2360.11,Consumer,Net Banking
+ORD0255,2025-04-16,Central,Furniture,Desk,180936,6,18681.28,Corporate,Credit Card
+ORD0038,2025-04-18,East,Electronics,Laptop,55944,3,7628.03,Consumer,UPI
+ORD0334,2025-04-19,West,Electronics,Keyboard,105525,7,28874.35,Corporate,UPI
+ORD0133,2025-04-19,Central,Clothing,Jeans,8050,2,791.59,Consumer,Credit Card
+ORD0316,2025-04-20,South,Furniture,Sofa,186774,7,15108.15,Corporate,Credit Card
+ORD0173,2025-04-20,East,Clothing,T-Shirt,16980,6,1970.57,Corporate,Debit Card
+ORD0424,2025-04-20,South,Home Appliances,Mixer,114609,3,27043.83,Small Business,Debit Card
+ORD0184,2025-04-21,South,Home Appliances,Fan,5892,1,493.75,Small Business,Net Banking
+ORD0265,2025-04-22,North,Furniture,Office Chair,209769,7,26612.94,Consumer,Net Banking
+ORD0387,2025-04-23,North,Home Appliances,Mixer,8762,2,1108.61,Small Business,Cash
+ORD0309,2025-04-24,Central,Clothing,Shoes,772,2,76.98,Small Business,Net Banking
+ORD0261,2025-04-25,North,Electronics,Mobile Phone,248206,7,26178.14,Consumer,UPI
+ORD0467,2025-04-25,West,Furniture,Sofa,150072,6,36776.97,Corporate,Net Banking
+ORD0093,2025-04-26,South,Clothing,Backpack,15128,4,1557.51,Corporate,Debit Card
+ORD0211,2025-04-26,East,Clothing,Jeans,8829,3,2356.88,Small Business,UPI
+ORD0021,2025-04-28,Central,Furniture,Office Chair,15468,6,3057.43,Consumer,Credit Card
+ORD0262,2025-04-28,South,Home Appliances,Fan,248920,7,38795.5,Corporate,UPI
+ORD0366,2025-04-29,Central,Electronics,Mobile Phone,34480,5,3061.14,Corporate,UPI
+ORD0338,2025-04-30,West,Electronics,Monitor,241890,5,53188.77,Small Business,Credit Card
+ORD0032,2025-05-01,West,Electronics,Mobile Phone,79592,2,7449.19,Consumer,Net Banking
+ORD0136,2025-05-02,Central,Furniture,Office Chair,9837,1,816.2,Corporate,Credit Card
+ORD0176,2025-05-02,West,Furniture,Sofa,28126,1,4299.34,Small Business,UPI
+ORD0319,2025-05-03,East,Furniture,Bookshelf,19956,2,2846.47,Consumer,Debit Card
+ORD0346,2025-05-03,West,Furniture,Sofa,23880,5,5653.84,Corporate,Credit Card
+ORD0108,2025-05-03,Central,Home Appliances,Washing Machine,78378,6,21644.47,Corporate,Debit Card
+ORD0352,2025-05-03,North,Electronics,Headphones,340466,7,92159.24,Consumer,Credit Card
+ORD0187,2025-05-04,Central,Furniture,Bookshelf,9114,7,1849.79,Corporate,Debit Card
+ORD0305,2025-05-04,East,Electronics,Monitor,79368,8,16402.76,Small Business,Debit Card
+ORD0283,2025-05-04,South,Home Appliances,Microwave,14024,2,2592.72,Small Business,Net Banking
+ORD0289,2025-05-04,Central,Furniture,Sofa,41626,2,4682.51,Corporate,Net Banking
+ORD0079,2025-05-04,West,Furniture,Office Chair,111340,4,19786.85,Small Business,Cash
+ORD0232,2025-05-05,North,Home Appliances,Microwave,72688,7,17760.02,Small Business,Credit Card
+ORD0115,2025-05-06,Central,Electronics,Headphones,152190,6,25284.44,Corporate,Net Banking
+ORD0344,2025-05-07,East,Home Appliances,Refrigerator,149177,7,35536.25,Small Business,Credit Card
+ORD0461,2025-05-08,West,Furniture,Bookshelf,59134,2,12556.67,Corporate,Cash
+ORD0372,2025-05-08,East,Electronics,Mobile Phone,63120,6,6201.07,Corporate,Net Banking
+ORD0337,2025-05-09,North,Clothing,Jeans,5320,5,1122.08,Corporate,Debit Card
+ORD0117,2025-05-11,West,Home Appliances,Fan,47748,3,8223.64,Corporate,Credit Card
+ORD0395,2025-05-12,North,Clothing,Jeans,23912,4,2237.18,Small Business,Credit Card
+ORD0047,2025-05-14,South,Home Appliances,Fan,15048,6,1550.97,Small Business,UPI
+ORD0203,2025-05-14,West,Furniture,Sofa,62419,7,8261.49,Consumer,Net Banking
+ORD0406,2025-05-15,West,Clothing,Shoes,10968,6,1855.29,Corporate,UPI
+ORD0223,2025-05-16,East,Home Appliances,Refrigerator,7744,1,1286.94,Corporate,UPI
+ORD0485,2025-05-16,South,Electronics,Monitor,28882,1,3922.82,Consumer,Net Banking
+ORD0008,2025-05-17,North,Clothing,Jeans,19260,6,2347.82,Small Business,Debit Card
+ORD0010,2025-05-18,North,Electronics,Mobile Phone,53559,1,7663.79,Consumer,Net Banking
+ORD0298,2025-05-18,West,Furniture,Sofa,30897,3,4133.52,Consumer,Credit Card
+ORD0124,2025-05-20,South,Furniture,Desk,75528,3,14061.08,Corporate,Cash
+ORD0212,2025-05-21,South,Electronics,Headphones,169676,4,46028.06,Small Business,UPI
+ORD0282,2025-05-21,Central,Electronics,Laptop,11032,7,919.46,Corporate,Credit Card
+ORD0237,2025-05-21,East,Home Appliances,Refrigerator,188472,8,36205.0,Consumer,Net Banking
+ORD0039,2025-05-22,North,Home Appliances,Refrigerator,6748,1,1395.87,Consumer,UPI
+ORD0429,2025-05-22,East,Home Appliances,Mixer,112914,6,23499.54,Small Business,UPI
+ORD0078,2025-05-22,Central,Clothing,Jacket,25915,5,5707.44,Consumer,Net Banking
+ORD0003,2025-05-23,North,Furniture,Table,109522,7,18601.41,Consumer,Cash
+ORD0463,2025-05-23,North,Furniture,Office Chair,177704,8,22777.81,Small Business,Debit Card
+ORD0046,2025-05-23,North,Furniture,Desk,13856,1,2212.71,Corporate,UPI
+ORD0202,2025-05-23,South,Furniture,Table,163710,6,23390.41,Consumer,Credit Card
+ORD0026,2025-05-23,West,Furniture,Table,83088,8,13657.7,Consumer,Credit Card
+ORD0092,2025-05-25,West,Home Appliances,Refrigerator,15870,1,2184.04,Consumer,Debit Card
+ORD0170,2025-05-26,East,Electronics,Headphones,74732,2,16117.89,Small Business,Net Banking
+ORD0121,2025-05-27,South,Electronics,Keyboard,443040,8,115558.59,Small Business,UPI
+ORD0242,2025-05-28,East,Furniture,Sofa,259920,8,54611.2,Corporate,Credit Card
+ORD0321,2025-05-28,South,Home Appliances,Fan,111198,3,12606.86,Consumer,UPI
+ORD0102,2025-05-28,West,Electronics,Mobile Phone,183965,5,19537.57,Small Business,Cash
+ORD0244,2025-05-29,North,Electronics,Monitor,104080,8,27822.85,Consumer,UPI
+ORD0476,2025-05-29,East,Clothing,Backpack,7780,4,948.71,Small Business,Debit Card
+ORD0238,2025-05-29,North,Home Appliances,Washing Machine,308178,6,74247.22,Corporate,Credit Card
+ORD0123,2025-06-01,East,Electronics,Keyboard,292770,6,31116.29,Small Business,Cash
+ORD0451,2025-06-01,South,Furniture,Bookshelf,98624,4,21765.07,Consumer,Net Banking
+ORD0251,2025-06-01,East,Furniture,Sofa,44470,5,9238.3,Small Business,Debit Card
+ORD0089,2025-06-02,Central,Furniture,Table,215068,7,56283.48,Corporate,UPI
+ORD0236,2025-06-02,East,Furniture,Desk,103810,5,12973.49,Small Business,Debit Card
+ORD0114,2025-06-03,North,Home Appliances,Mixer,59552,2,6745.63,Consumer,UPI
+ORD0037,2025-06-03,North,Clothing,Backpack,5771,1,1404.78,Consumer,UPI
+ORD0084,2025-06-04,North,Electronics,Mobile Phone,78540,5,11951.92,Small Business,Net Banking
+ORD0052,2025-06-04,West,Furniture,Sofa,88235,7,17920.79,Small Business,Credit Card
+ORD0300,2025-06-05,North,Home Appliances,Fan,122824,4,12453.67,Corporate,UPI
+ORD0426,2025-06-06,East,Furniture,Table,15864,1,2069.9,Corporate,Cash
+ORD0434,2025-06-07,West,Furniture,Bookshelf,31530,2,4762.82,Corporate,UPI
+ORD0353,2025-06-08,South,Home Appliances,Mixer,326616,8,65900.16,Consumer,Credit Card
+ORD0171,2025-06-08,West,Furniture,Bookshelf,20936,2,5513.48,Consumer,Net Banking
+ORD0071,2025-06-09,Central,Electronics,Mobile Phone,39420,5,7715.95,Small Business,Cash
+ORD0482,2025-06-10,Central,Home Appliances,Washing Machine,366443,7,100832.12,Consumer,Credit Card
+ORD0048,2025-06-10,West,Electronics,Laptop,164178,7,37056.45,Small Business,Net Banking
+ORD0158,2025-06-10,Central,Electronics,Monitor,30930,1,8172.71,Corporate,Net Banking
+ORD0288,2025-06-11,North,Electronics,Headphones,12554,1,3336.27,Consumer,Net Banking
+ORD0368,2025-06-11,West,Electronics,Monitor,48951,3,6771.65,Small Business,UPI
+ORD0347,2025-06-12,South,Furniture,Sofa,3980,2,1103.96,Corporate,Net Banking
+ORD0360,2025-06-13,East,Furniture,Bookshelf,113916,4,29979.38,Consumer,Net Banking
+ORD0228,2025-06-13,South,Furniture,Table,68079,3,18127.65,Corporate,Net Banking
+ORD0329,2025-06-15,East,Clothing,Backpack,25945,5,4871.27,Corporate,Net Banking
+ORD0159,2025-06-16,South,Home Appliances,Washing Machine,41240,5,6639.91,Small Business,Cash
+ORD0234,2025-06-16,West,Home Appliances,Mixer,104076,3,12641.94,Small Business,Cash
+ORD0112,2025-06-18,Central,Clothing,Backpack,39361,7,3781.14,Corporate,UPI
+ORD0277,2025-06-18,South,Electronics,Headphones,141015,7,15579.66,Corporate,Net Banking
+ORD0110,2025-06-19,North,Home Appliances,Mixer,100854,3,27540.27,Corporate,Credit Card
+ORD0022,2025-06-19,North,Electronics,Laptop,20868,4,5448.3,Small Business,Debit Card
+ORD0050,2025-06-19,Central,Furniture,Bookshelf,40495,7,10924.53,Corporate,Credit Card
+ORD0227,2025-06-20,West,Home Appliances,Fan,3669,1,322.08,Small Business,Cash
+ORD0004,2025-06-22,North,Clothing,Jacket,6189,3,1679.96,Consumer,Cash
+ORD0169,2025-06-23,Central,Furniture,Bookshelf,118434,6,18651.38,Consumer,UPI
+ORD0025,2025-06-23,North,Home Appliances,Mixer,9344,2,1499.94,Consumer,Debit Card
+ORD0151,2025-06-24,South,Electronics,Keyboard,101816,4,16694.41,Corporate,UPI
+ORD0086,2025-06-24,South,Electronics,Laptop,157810,5,27733.98,Consumer,UPI
+ORD0335,2025-06-25,North,Clothing,Jacket,14811,3,3709.93,Consumer,Credit Card
+ORD0437,2025-06-25,West,Home Appliances,Mixer,29106,3,8105.14,Small Business,Cash
+ORD0442,2025-06-26,East,Electronics,Laptop,62512,4,13671.68,Consumer,Credit Card
+ORD0118,2025-06-26,Central,Home Appliances,Refrigerator,16620,3,2797.91,Corporate,Cash
+ORD0068,2025-06-29,South,Electronics,Monitor,49888,1,9373.15,Small Business,Credit Card
+ORD0198,2025-06-30,Central,Furniture,Sofa,183018,6,16191.79,Corporate,UPI
+ORD0235,2025-07-01,East,Clothing,Jeans,37336,8,5543.1,Small Business,Cash
+ORD0378,2025-07-01,South,Home Appliances,Mixer,318325,7,52629.56,Consumer,UPI
+ORD0498,2025-07-03,Central,Electronics,Keyboard,46733,1,11666.91,Consumer,UPI
+ORD0381,2025-07-03,West,Furniture,Table,26267,1,6209.08,Small Business,Cash
+ORD0489,2025-07-04,East,Clothing,Jeans,22936,4,3357.3,Consumer,Net Banking
+ORD0006,2025-07-05,Central,Home Appliances,Mixer,209490,5,42673.94,Consumer,Credit Card
+ORD0224,2025-07-05,Central,Electronics,Monitor,38173,1,7343.09,Corporate,Credit Card
+ORD0074,2025-07-05,West,Clothing,T-Shirt,30205,7,3053.96,Small Business,Debit Card
+ORD0389,2025-07-06,North,Furniture,Table,25407,3,6333.87,Corporate,Cash
+ORD0363,2025-07-08,Central,Clothing,Backpack,27005,5,3470.6,Corporate,Debit Card
+ORD0421,2025-07-08,West,Home Appliances,Mixer,281268,6,33702.08,Small Business,Cash
+ORD0195,2025-07-08,Central,Home Appliances,Refrigerator,99657,3,21766.45,Corporate,Credit Card
+ORD0341,2025-07-08,East,Furniture,Sofa,15824,2,1592.53,Consumer,Cash
+ORD0070,2025-07-08,South,Home Appliances,Mixer,124704,4,27421.54,Small Business,Net Banking
+ORD0201,2025-07-09,East,Electronics,Keyboard,135909,3,23102.43,Corporate,Credit Card
+ORD0036,2025-07-09,East,Clothing,Jeans,5178,6,1324.81,Consumer,Cash
+ORD0131,2025-07-09,South,Home Appliances,Fan,133231,7,11530.24,Corporate,Cash
+ORD0145,2025-07-10,South,Electronics,Laptop,49896,7,11422.08,Small Business,Credit Card
+ORD0189,2025-07-11,East,Electronics,Monitor,29224,8,6053.29,Small Business,Credit Card
+ORD0285,2025-07-14,West,Furniture,Bookshelf,6552,2,646.68,Small Business,Cash
+ORD0067,2025-07-14,East,Clothing,Jeans,23816,8,3512.86,Corporate,UPI
+ORD0116,2025-07-15,Central,Furniture,Desk,19125,3,3861.31,Small Business,Debit Card
+ORD0109,2025-07-15,West,Home Appliances,Mixer,297024,6,51858.98,Small Business,Debit Card
+ORD0061,2025-07-16,South,Clothing,Jacket,2866,2,315.74,Small Business,Debit Card
+ORD0380,2025-07-16,South,Home Appliances,Washing Machine,37568,8,3664.54,Corporate,Debit Card
+ORD0457,2025-07-17,West,Electronics,Monitor,447055,7,76583.98,Corporate,Debit Card
+ORD0408,2025-07-18,Central,Home Appliances,Fan,147920,4,13637.74,Corporate,Net Banking
+ORD0496,2025-07-18,West,Electronics,Keyboard,242008,4,31879.62,Small Business,Cash
+ORD0303,2025-07-21,East,Furniture,Bookshelf,136983,7,33327.81,Consumer,Net Banking
+ORD0470,2025-07-21,South,Electronics,Headphones,52360,4,5453.25,Corporate,Debit Card
+ORD0367,2025-07-21,North,Home Appliances,Mixer,67646,2,7218.02,Small Business,Net Banking
+ORD0409,2025-07-22,North,Home Appliances,Fan,127648,4,17841.41,Small Business,Net Banking
+ORD0302,2025-07-23,East,Clothing,Backpack,16896,4,2413.37,Corporate,Cash
+ORD0349,2025-07-23,Central,Electronics,Headphones,13640,4,3608.0,Corporate,Net Banking
+ORD0012,2025-07-24,East,Furniture,Desk,146385,5,37996.36,Consumer,Debit Card
+ORD0028,2025-07-25,North,Furniture,Sofa,261968,8,32156.43,Consumer,Cash
+ORD0051,2025-07-26,East,Clothing,Backpack,28815,5,4658.77,Small Business,Debit Card
+ORD0415,2025-07-26,South,Home Appliances,Washing Machine,25240,8,2888.46,Small Business,Net Banking
+ORD0284,2025-07-27,West,Clothing,Jacket,17755,5,1701.0,Small Business,Debit Card
+ORD0370,2025-07-28,North,Furniture,Office Chair,91986,3,15932.99,Small Business,UPI
+ORD0091,2025-07-29,West,Furniture,Desk,18357,3,2043.25,Small Business,Net Banking
+ORD0044,2025-07-30,South,Home Appliances,Mixer,146913,3,38916.88,Corporate,Debit Card
+ORD0330,2025-07-30,North,Clothing,Backpack,2820,2,768.6,Corporate,Debit Card
+ORD0233,2025-07-31,South,Furniture,Office Chair,174064,8,28504.03,Corporate,Net Banking
+ORD0311,2025-08-01,North,Furniture,Bookshelf,32838,1,3313.68,Consumer,Debit Card
+ORD0153,2025-08-01,East,Clothing,Shoes,29946,7,6031.58,Consumer,Net Banking
+ORD0062,2025-08-01,North,Electronics,Monitor,157388,7,29671.14,Consumer,Cash
+ORD0270,2025-08-02,Central,Clothing,Jeans,6176,8,1188.74,Small Business,Debit Card
+ORD0088,2025-08-02,Central,Clothing,T-Shirt,5080,4,973.4,Small Business,Net Banking
+ORD0431,2025-08-03,West,Furniture,Office Chair,164576,8,21705.15,Corporate,Credit Card
+ORD0340,2025-08-05,South,Electronics,Laptop,326100,6,33953.13,Corporate,Credit Card
+ORD0146,2025-08-05,North,Clothing,T-Shirt,22372,7,5698.63,Corporate,Net Banking
+ORD0040,2025-08-07,Central,Furniture,Bookshelf,90468,3,17219.32,Consumer,Credit Card
+ORD0440,2025-08-08,West,Electronics,Mobile Phone,296212,7,49136.22,Corporate,Credit Card
+ORD0295,2025-08-09,West,Clothing,Jacket,2770,2,269.96,Small Business,Net Banking
+ORD0024,2025-08-09,East,Home Appliances,Washing Machine,27524,4,2735.5,Corporate,Cash
+ORD0142,2025-08-09,North,Home Appliances,Fan,152170,5,27559.54,Small Business,Credit Card
+ORD0286,2025-08-11,East,Electronics,Laptop,18654,3,3357.19,Small Business,Credit Card
+ORD0400,2025-08-11,South,Home Appliances,Mixer,304752,7,34436.81,Consumer,Credit Card
+ORD0194,2025-08-12,West,Electronics,Headphones,44785,5,10742.51,Small Business,Cash
+ORD0049,2025-08-12,North,Electronics,Monitor,69972,4,6218.92,Small Business,Net Banking
+ORD0064,2025-08-12,West,Home Appliances,Washing Machine,130784,4,16202.09,Consumer,Cash
+ORD0499,2025-08-13,West,Clothing,Backpack,5212,2,1214.68,Corporate,Credit Card
+ORD0168,2025-08-13,West,Electronics,Keyboard,10095,3,1307.79,Small Business,Net Banking
+ORD0164,2025-08-15,East,Clothing,Jacket,11706,3,1096.35,Corporate,Net Banking
+ORD0323,2025-08-16,West,Home Appliances,Washing Machine,223504,8,49624.25,Consumer,Credit Card
+ORD0492,2025-08-17,West,Clothing,T-Shirt,27078,6,6513.97,Consumer,UPI
+ORD0264,2025-08-17,Central,Furniture,Desk,15624,2,3105.88,Small Business,Credit Card
+ORD0197,2025-08-17,Central,Electronics,Laptop,264684,6,36824.95,Small Business,Cash
+ORD0249,2025-08-17,East,Clothing,Jeans,2436,1,381.76,Corporate,UPI
+ORD0422,2025-08-17,South,Electronics,Laptop,100836,4,17924.34,Corporate,Net Banking
+ORD0490,2025-08-17,South,Home Appliances,Fan,8218,1,1756.91,Small Business,Net Banking
+ORD0076,2025-08-19,South,Clothing,Jacket,4036,4,548.03,Corporate,Net Banking
+ORD0180,2025-08-19,Central,Electronics,Headphones,101622,2,11388.01,Consumer,Cash
+ORD0138,2025-08-20,Central,Home Appliances,Washing Machine,206010,6,40941.03,Consumer,Net Banking
+ORD0029,2025-08-21,East,Electronics,Monitor,307600,5,72844.02,Corporate,Net Banking
+ORD0015,2025-08-21,North,Clothing,Jacket,5408,2,902.88,Small Business,UPI
+ORD0143,2025-08-21,West,Furniture,Sofa,129392,8,21060.19,Corporate,Credit Card
+ORD0256,2025-08-22,Central,Home Appliances,Mixer,74776,8,13657.8,Consumer,Net Banking
+ORD0362,2025-08-22,North,Home Appliances,Refrigerator,110745,5,10772.95,Corporate,Debit Card
+ORD0317,2025-08-23,North,Electronics,Keyboard,74316,3,10790.46,Corporate,Cash
+ORD0304,2025-08-25,South,Furniture,Table,8889,3,2405.37,Corporate,UPI
+ORD0209,2025-08-27,Central,Electronics,Mobile Phone,257376,6,24407.74,Corporate,Debit Card
+ORD0177,2025-08-29,South,Home Appliances,Microwave,83924,4,22921.27,Corporate,Net Banking
+ORD0097,2025-08-29,Central,Electronics,Headphones,50811,1,11750.24,Small Business,Cash
+ORD0435,2025-08-29,North,Clothing,Backpack,20495,5,5128.73,Small Business,Net Banking
+ORD0183,2025-08-30,South,Furniture,Desk,20000,1,5269.58,Small Business,Cash
+ORD0448,2025-08-31,South,Home Appliances,Washing Machine,61593,7,11669.19,Consumer,Credit Card
+ORD0063,2025-09-02,North,Home Appliances,Fan,50874,1,9927.45,Corporate,UPI
+ORD0306,2025-09-03,Central,Home Appliances,Washing Machine,60260,2,16760.72,Corporate,Net Banking
+ORD0107,2025-09-05,East,Clothing,Backpack,12136,8,2054.74,Corporate,Net Banking
+ORD0119,2025-09-05,North,Clothing,Shoes,9655,5,2702.19,Consumer,Cash
+ORD0322,2025-09-06,South,Home Appliances,Fan,24229,1,6550.76,Consumer,Cash
+ORD0018,2025-09-06,North,Furniture,Office Chair,25444,4,2471.39,Small Business,Debit Card
+ORD0278,2025-09-08,West,Furniture,Sofa,108384,6,25217.94,Corporate,Debit Card
+ORD0444,2025-09-08,East,Clothing,Shoes,9321,3,2602.68,Consumer,Debit Card
+ORD0417,2025-09-09,North,Electronics,Headphones,105890,5,14408.38,Consumer,Debit Card
+ORD0095,2025-09-10,West,Home Appliances,Refrigerator,129787,7,23373.92,Consumer,Net Banking
+ORD0386,2025-09-10,Central,Clothing,Backpack,14736,3,3973.91,Corporate,Debit Card
+ORD0393,2025-09-12,South,Clothing,Backpack,22156,4,4278.55,Corporate,Credit Card
+ORD0221,2025-09-12,North,Home Appliances,Fan,267088,8,68325.15,Consumer,Cash
+ORD0290,2025-09-14,East,Clothing,Shoes,17838,3,4010.57,Consumer,Credit Card
+ORD0031,2025-09-15,Central,Electronics,Headphones,4086,1,804.27,Consumer,Credit Card
+ORD0002,2025-09-16,Central,Home Appliances,Mixer,6840,1,846.3,Consumer,Net Banking
+ORD0254,2025-09-16,South,Clothing,T-Shirt,1610,2,395.67,Small Business,Net Banking
+ORD0106,2025-09-17,East,Furniture,Office Chair,141965,5,21007.28,Consumer,UPI
+ORD0016,2025-09-17,Central,Furniture,Table,41516,2,10309.83,Consumer,Debit Card
+ORD0275,2025-09-20,West,Home Appliances,Fan,125472,6,16601.49,Corporate,Credit Card
+ORD0419,2025-09-21,South,Furniture,Sofa,205632,8,50216.05,Consumer,UPI
+ORD0361,2025-09-22,North,Clothing,T-Shirt,1769,1,220.48,Corporate,Credit Card
+ORD0020,2025-09-22,West,Furniture,Bookshelf,179704,7,30121.99,Consumer,Debit Card
+ORD0312,2025-09-24,West,Clothing,Jacket,24180,6,5727.13,Corporate,Cash
+ORD0354,2025-09-25,Central,Furniture,Office Chair,101196,3,27383.97,Small Business,UPI
+ORD0478,2025-09-25,North,Home Appliances,Fan,141905,5,34292.9,Consumer,Cash
+ORD0137,2025-09-27,North,Furniture,Bookshelf,9507,1,2170.86,Small Business,Credit Card
+ORD0208,2025-09-27,West,Electronics,Headphones,334488,7,74849.69,Corporate,Net Banking
+ORD0178,2025-09-28,West,Home Appliances,Washing Machine,258475,5,40418.9,Consumer,Debit Card
+ORD0383,2025-09-29,East,Electronics,Headphones,53795,1,14971.49,Small Business,Debit Card
+ORD0240,2025-09-29,South,Furniture,Office Chair,68356,4,6162.5,Small Business,Debit Card
+ORD0365,2025-09-29,South,Clothing,T-Shirt,19733,7,1988.89,Corporate,Cash
+ORD0229,2025-09-30,West,Clothing,Backpack,26730,6,6566.44,Small Business,Net Banking
+ORD0497,2025-10-01,North,Home Appliances,Refrigerator,26226,1,5629.67,Small Business,Net Banking
+ORD0414,2025-10-02,East,Electronics,Laptop,104588,2,14351.42,Corporate,UPI
+ORD0324,2025-10-03,East,Electronics,Mobile Phone,14710,5,1985.42,Consumer,Cash
+ORD0269,2025-10-03,West,Home Appliances,Washing Machine,61059,3,9481.98,Consumer,Debit Card
+ORD0239,2025-10-03,East,Clothing,Shoes,21120,5,2593.48,Small Business,UPI
+ORD0493,2025-10-03,Central,Furniture,Bookshelf,14976,2,1699.46,Consumer,Credit Card
+ORD0350,2025-10-03,Central,Home Appliances,Washing Machine,42707,7,8887.65,Consumer,UPI
+ORD0075,2025-10-03,West,Home Appliances,Microwave,205320,5,49613.49,Corporate,Cash
+ORD0129,2025-10-03,South,Clothing,Shoes,2192,2,278.3,Corporate,Cash
+ORD0027,2025-10-04,North,Home Appliances,Fan,8030,2,1689.74,Consumer,Debit Card
+ORD0401,2025-10-04,East,Clothing,Jeans,14608,4,3205.57,Small Business,UPI
+ORD0279,2025-10-05,North,Clothing,Jeans,14331,3,2546.09,Small Business,Credit Card
+ORD0205,2025-10-05,East,Electronics,Headphones,283800,6,26389.94,Corporate,Debit Card
+ORD0364,2025-10-05,East,Furniture,Desk,28072,1,2380.0,Small Business,Credit Card
+ORD0245,2025-10-06,Central,Electronics,Headphones,152880,5,42473.11,Corporate,Debit Card
+ORD0188,2025-10-06,Central,Electronics,Keyboard,31410,6,8502.08,Small Business,Net Banking
+ORD0325,2025-10-06,East,Home Appliances,Fan,76466,2,7863.87,Small Business,Credit Card
+ORD0488,2025-10-06,Central,Furniture,Desk,68608,2,7675.46,Corporate,Credit Card
+ORD0500,2025-10-07,East,Home Appliances,Microwave,38548,4,8841.01,Small Business,Debit Card
+ORD0215,2025-10-07,East,Home Appliances,Fan,33339,1,8594.77,Small Business,UPI
+ORD0081,2025-10-09,East,Clothing,Shoes,22710,6,6343.5,Corporate,Cash
+ORD0487,2025-10-09,East,Electronics,Keyboard,164740,5,39205.09,Consumer,UPI
+ORD0402,2025-10-09,West,Clothing,Jeans,1412,2,223.92,Consumer,Credit Card
+ORD0274,2025-10-10,East,Home Appliances,Microwave,106772,4,28083.74,Corporate,Cash
+ORD0207,2025-10-10,South,Clothing,Backpack,24768,6,5962.46,Small Business,Credit Card
+ORD0105,2025-10-10,South,Clothing,Shoes,33344,8,4292.91,Corporate,Debit Card
+ORD0103,2025-10-10,North,Electronics,Laptop,189264,4,21136.18,Small Business,Cash
+ORD0412,2025-10-10,East,Clothing,T-Shirt,6958,2,1330.88,Corporate,Net Banking
+ORD0041,2025-10-10,South,Electronics,Mobile Phone,55496,1,8537.68,Corporate,Debit Card
+ORD0134,2025-10-11,South,Clothing,Jeans,14775,3,1788.38,Small Business,Debit Card
+ORD0292,2025-10-11,West,Electronics,Headphones,263616,8,33117.47,Corporate,Debit Card
+ORD0179,2025-10-11,North,Furniture,Bookshelf,32695,1,8331.45,Small Business,Net Banking
+ORD0014,2025-10-11,North,Home Appliances,Washing Machine,283008,8,36871.08,Small Business,Credit Card
+ORD0226,2025-10-13,East,Electronics,Monitor,317364,6,88023.3,Consumer,Debit Card
+ORD0477,2025-10-15,West,Furniture,Table,52578,6,12206.25,Small Business,Net Banking
+ORD0163,2025-10-16,Central,Furniture,Office Chair,100746,3,17407.96,Corporate,Net Banking
+ORD0392,2025-10-18,North,Furniture,Desk,26863,1,6719.82,Consumer,Net Banking
+ORD0287,2025-10-18,West,Electronics,Mobile Phone,239460,4,60732.65,Corporate,Credit Card
+ORD0094,2025-10-19,East,Electronics,Laptop,158235,3,22393.79,Corporate,Credit Card
+ORD0023,2025-10-20,Central,Clothing,Shoes,18868,4,2008.73,Corporate,Debit Card
+ORD0377,2025-10-21,West,Clothing,T-Shirt,4076,1,367.36,Small Business,Cash
+ORD0148,2025-10-21,South,Clothing,Backpack,7446,6,1731.35,Corporate,Net Banking
+ORD0464,2025-10-21,West,Home Appliances,Washing Machine,23464,4,4031.56,Consumer,Cash
+ORD0320,2025-10-22,West,Clothing,Jeans,26082,7,5197.76,Corporate,Debit Card
+ORD0220,2025-10-23,East,Home Appliances,Microwave,162036,3,23574.16,Consumer,Debit Card
+ORD0356,2025-10-23,North,Clothing,Backpack,4908,2,1091.86,Corporate,Cash
+ORD0397,2025-10-23,South,Clothing,Backpack,7910,7,1943.97,Consumer,Cash
+ORD0087,2025-10-23,North,Home Appliances,Mixer,53920,2,9616.59,Consumer,Debit Card
+ORD0231,2025-10-24,Central,Electronics,Keyboard,145608,8,39811.29,Consumer,Credit Card
+ORD0033,2025-10-26,Central,Furniture,Table,6572,1,1076.79,Small Business,UPI
+ORD0141,2025-10-27,Central,Furniture,Office Chair,57669,3,11814.27,Small Business,UPI
+ORD0160,2025-10-29,West,Clothing,T-Shirt,8169,7,1051.05,Small Business,Credit Card
+ORD0083,2025-10-29,Central,Furniture,Desk,131728,4,17822.79,Small Business,UPI
+ORD0339,2025-10-31,South,Electronics,Laptop,128192,4,12253.58,Small Business,Cash
+ORD0253,2025-11-02,North,Home Appliances,Fan,202516,4,26224.42,Small Business,Cash
+ORD0430,2025-11-04,West,Furniture,Desk,19680,4,4744.57,Small Business,UPI
+ORD0475,2025-11-05,Central,Clothing,Jacket,11136,8,1198.63,Corporate,Net Banking
+ORD0272,2025-11-05,North,Furniture,Office Chair,129590,5,27827.43,Consumer,Debit Card
+ORD0466,2025-11-06,Central,Electronics,Keyboard,54926,1,5392.59,Small Business,UPI
+ORD0418,2025-11-06,North,Clothing,Shoes,15042,6,3395.88,Consumer,Cash
+ORD0252,2025-11-07,East,Furniture,Desk,89912,8,15374.57,Corporate,Net Banking
+ORD0053,2025-11-07,East,Clothing,Jacket,15284,4,3624.63,Corporate,Cash
+ORD0019,2025-11-07,West,Furniture,Sofa,55710,3,10336.14,Consumer,Net Banking
+ORD0428,2025-11-08,East,Electronics,Laptop,225570,6,47249.79,Corporate,Credit Card
+ORD0291,2025-11-11,Central,Home Appliances,Microwave,46042,2,9256.0,Corporate,UPI
+ORD0379,2025-11-12,South,Clothing,Shoes,1749,3,354.73,Small Business,UPI
+ORD0152,2025-11-13,North,Clothing,Backpack,1460,2,162.23,Small Business,Credit Card
+ORD0101,2025-11-15,West,Home Appliances,Washing Machine,12993,1,2386.66,Small Business,Cash
+ORD0069,2025-11-15,South,Electronics,Laptop,55460,4,13745.53,Consumer,Debit Card
+ORD0449,2025-11-15,Central,Clothing,Shoes,11454,2,2108.24,Small Business,Debit Card
+ORD0065,2025-11-15,Central,Clothing,Shoes,12384,3,3268.24,Consumer,Cash
+ORD0225,2025-11-16,Central,Home Appliances,Fan,406360,8,77196.79,Consumer,Debit Card
+ORD0090,2025-11-17,South,Electronics,Keyboard,125802,2,29254.93,Corporate,Credit Card
+ORD0122,2025-11-18,North,Furniture,Desk,50815,5,10450.09,Corporate,Cash
+ORD0072,2025-11-18,South,Home Appliances,Microwave,79006,2,17233.02,Consumer,UPI
+ORD0190,2025-11-18,North,Clothing,T-Shirt,13650,6,3092.93,Small Business,UPI
+ORD0411,2025-11-18,South,Electronics,Monitor,91138,2,15227.21,Small Business,UPI
+ORD0280,2025-11-19,South,Electronics,Laptop,27826,1,2991.25,Consumer,Debit Card
+ORD0375,2025-11-19,North,Furniture,Desk,109808,4,16959.62,Small Business,Net Banking
+ORD0056,2025-11-19,Central,Furniture,Sofa,62092,2,10114.05,Consumer,Cash
+ORD0438,2025-11-20,South,Furniture,Bookshelf,19488,3,3459.44,Corporate,Credit Card
+ORD0113,2025-11-20,East,Home Appliances,Fan,41165,1,3856.51,Consumer,Credit Card
+ORD0281,2025-11-23,Central,Electronics,Mobile Phone,202064,8,18608.08,Corporate,Cash
+ORD0009,2025-11-24,Central,Furniture,Desk,208536,8,27941.65,Consumer,UPI
+ORD0315,2025-11-24,West,Home Appliances,Microwave,293797,7,34342.04,Corporate,Credit Card
+ORD0446,2025-11-24,East,Furniture,Office Chair,21888,6,3393.48,Small Business,Net Banking
+ORD0405,2025-11-25,Central,Home Appliances,Washing Machine,352168,8,46838.65,Corporate,Debit Card
+ORD0214,2025-11-25,Central,Clothing,Backpack,532,1,51.2,Corporate,Debit Card
+ORD0011,2025-11-26,West,Clothing,Jeans,28328,8,7278.5,Consumer,UPI
+ORD0268,2025-11-26,West,Home Appliances,Fan,30176,8,8282.05,Small Business,UPI
+ORD0132,2025-11-27,East,Furniture,Bookshelf,50546,2,9547.79,Consumer,Cash
+ORD0376,2025-11-27,West,Clothing,T-Shirt,828,1,98.99,Consumer,Credit Card
+ORD0200,2025-11-27,East,Home Appliances,Mixer,15318,3,1948.44,Corporate,Cash
+ORD0259,2025-11-27,West,Clothing,Shoes,4227,3,985.59,Corporate,Cash
+ORD0104,2025-11-28,South,Electronics,Mobile Phone,62082,2,16725.65,Corporate,UPI
+ORD0301,2025-11-30,Central,Home Appliances,Refrigerator,181096,8,30084.26,Consumer,UPI
+ORD0326,2025-12-01,South,Home Appliances,Fan,114248,4,11480.01,Corporate,Credit Card
+ORD0460,2025-12-02,East,Electronics,Monitor,30496,8,2825.98,Consumer,Net Banking
+ORD0345,2025-12-04,East,Furniture,Table,14785,5,3690.02,Consumer,Net Banking
+ORD0120,2025-12-04,West,Clothing,Backpack,13590,5,1146.83,Corporate,Credit Card
+ORD0468,2025-12-04,South,Home Appliances,Refrigerator,65376,8,6504.09,Consumer,UPI
+ORD0263,2025-12-05,West,Furniture,Bookshelf,34380,4,2971.93,Small Business,Credit Card
+ORD0260,2025-12-05,Central,Home Appliances,Washing Machine,41713,7,9032.79,Consumer,UPI
+ORD0403,2025-12-05,Central,Clothing,T-Shirt,7119,7,988.9,Corporate,Debit Card
+ORD0073,2025-12-05,East,Electronics,Keyboard,23554,1,4393.98,Consumer,Net Banking
+ORD0407,2025-12-08,North,Furniture,Bookshelf,11104,1,2558.88,Consumer,UPI
+ORD0250,2025-12-08,North,Electronics,Headphones,277206,6,35277.38,Corporate,UPI
+ORD0157,2025-12-09,East,Furniture,Desk,113960,7,20518.78,Consumer,Cash
+ORD0432,2025-12-10,East,Furniture,Bookshelf,129508,4,33841.13,Small Business,UPI
+ORD0266,2025-12-11,East,Clothing,Jeans,30180,6,6023.43,Consumer,UPI
+ORD0471,2025-12-11,Central,Clothing,T-Shirt,4760,7,1262.95,Consumer,Cash
+ORD0427,2025-12-13,Central,Clothing,Shoes,10435,5,1808.8,Small Business,Cash
+ORD0331,2025-12-13,West,Furniture,Desk,66924,3,16442.98,Corporate,Debit Card
+ORD0154,2025-12-14,Central,Electronics,Headphones,56469,7,7716.45,Corporate,Net Banking
+ORD0199,2025-12-14,South,Electronics,Laptop,172263,7,31458.19,Consumer,Debit Card
+ORD0310,2025-12-14,Central,Furniture,Sofa,160998,6,27790.29,Small Business,Net Banking
+ORD0436,2025-12-15,West,Electronics,Monitor,134396,4,13972.24,Small Business,UPI
+ORD0484,2025-12-16,North,Furniture,Desk,153065,5,17676.74,Consumer,Debit Card
+ORD0425,2025-12-16,North,Furniture,Bookshelf,243866,7,20487.3,Corporate,Debit Card
+ORD0423,2025-12-19,North,Clothing,Jacket,7254,3,1666.91,Corporate,Credit Card
+ORD0216,2025-12-19,North,Home Appliances,Microwave,141344,7,24128.67,Consumer,Cash
+ORD0080,2025-12-21,South,Home Appliances,Mixer,39966,2,4968.54,Corporate,Net Banking
+ORD0474,2025-12-21,South,Clothing,Backpack,26103,7,7201.82,Corporate,Cash
+ORD0099,2025-12-22,West,Clothing,Jacket,3234,2,472.04,Corporate,Cash
+ORD0481,2025-12-23,East,Furniture,Table,117397,7,21387.91,Small Business,Credit Card
+ORD0085,2025-12-24,South,Furniture,Bookshelf,4773,1,910.08,Small Business,Cash
+ORD0385,2025-12-24,East,Clothing,Jeans,6711,3,1332.16,Small Business,Credit Card
+ORD0307,2025-12-26,Central,Home Appliances,Fan,52520,1,14373.97,Small Business,Credit Card
+ORD0149,2025-12-26,East,Electronics,Keyboard,13485,5,1565.38,Corporate,UPI
+ORD0494,2025-12-26,West,Furniture,Desk,56070,7,6790.97,Small Business,Credit Card
+ORD0483,2025-12-27,East,Clothing,Jeans,17176,8,4505.22,Small Business,Net Banking
